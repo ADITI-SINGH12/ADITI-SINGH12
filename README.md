@@ -2,11 +2,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-singh12&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-singh12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi-singh12" alt="aditi-singh12" /></a> </p>
+# Hi, I'm Aditi 👋
 
-- 🌱 I’m currently learning **Springboot, Microservices**
+🚀 QA Automation Engineer (SDET) | Backend Enthusiast | Performance Testing  
 
-- 💬 Ask me about **Java, JDBC, Hibernate, Spring, Spring Boot, HTML, CSS, Power Apps, Power Automate, MySQL, and SharePoint**
-
+- 🔧 Skilled in Selenium, Playwright, Rest Assured, CI/CD pipelines  
+- 💻 Passionate about Java, Spring Boot, and microservices development  
+- 📊 Experienced in SIT, regression automation, and API validation  
+- 🌱 Always learning new tools and improving backend + testing workflows  
 - 📫 How to reach me **aditisingh10022018@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CuWqPbI0yUExHmI-Vpog7dKBfDhxWIE2/view?usp=sharing](https://drive.google.com/file/d/1CuWqPbI0yUExHmI-Vpog7dKBfDhxWIE2/view?usp=sharing)
