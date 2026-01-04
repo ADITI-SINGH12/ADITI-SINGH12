@@ -1,9 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aditi Singh</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-singh12&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-singh12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi-singh12" alt="aditi-singh12" /></a> </p>
-# Hi, I'm Aditi 👋
-
 # Hi, I'm Aditi 👋
 
 💡 QA Automation Engineer (SDET) | Backend Enthusiast | RPA Explorer | CI/CD Advocate  
@@ -76,10 +70,16 @@ I thrive on **automation love** — whether it’s building robust test framewor
   <a href="https://rest-assured.io/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="rest assured" width="50" height="50"/>
   </a>
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
+  </a>
+  
+  <!-- Oracle -->
+  <a href="https://www.oracle.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi-singh12&show_icons=true&locale=en&layout=compact" alt="aditi-singh12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-singh12&show_icons=true&locale=en" alt="aditi-singh12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-singh12&" alt="aditi-singh12" /></p>
